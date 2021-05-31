@@ -1,4 +1,7 @@
 **/.terraform/**
 **/__pycache__/**
 *.tfplan
-*.tfstate
+*.tfstate*
+*.zip
+*.hcl
+*.log
