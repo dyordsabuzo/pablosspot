@@ -1,7 +1,9 @@
 **/.terraform/**
 **/__pycache__/**
+**/.pytest_cache/**
 *.tfplan
 *.tfstate*
 *.zip
 *.hcl
 *.log
+.gitignore
