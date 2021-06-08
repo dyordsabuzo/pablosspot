@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytest
+requests
+wonderwords
+aiofiles
+Pillow
