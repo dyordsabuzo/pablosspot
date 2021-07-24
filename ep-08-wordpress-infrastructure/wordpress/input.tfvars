@@ -1,0 +1,6 @@
+database_name = "wordpress_db"
+database_master_username = "wordpress_dbuser"
+vpc_id = "vpc-99d74efe"
+region = "ap-southeast-2"
+domain = "pablosspot.ml"
+endpoint = "wp"

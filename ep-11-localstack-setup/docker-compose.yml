@@ -1,0 +1,14 @@
+version: '3.4'
+services:
+    localstack:
+        image: localstack/localstack
+        container_name: localstack
+        ports:
+            - 4566:4566
+        volumes:
+            - /var/run/docker.sock:/var/run/docker.sock
+
+networks:
+    default:
+        name: localstack
+        
