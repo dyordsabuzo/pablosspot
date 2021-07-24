@@ -1,3 +1,0 @@
-moto
-pytest
-pyyaml

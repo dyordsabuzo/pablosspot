@@ -1,2 +1,0 @@
-infrastructure/lambda/app/**
-!infrastructure/lambda/app/lambda_function.py
