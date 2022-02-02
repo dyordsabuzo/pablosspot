@@ -1,0 +1,3 @@
+*
+!.gitignore
+!lambda_function.py
